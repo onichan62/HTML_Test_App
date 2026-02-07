@@ -1,0 +1,15 @@
+/* ページ全体 */
+.page-wrapper {
+    width: 100%;
+    padding: 0 50px;
+    max-width: 1280px;
+    margin: 0 auto;
+    opacity: 0.5;
+    color: #411199;
+}
+
+h1 {
+    color: red;
+    background-color: yellow;
+    list-style: none;
+}
